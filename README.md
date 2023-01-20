@@ -1,5 +1,5 @@
 # urdf-generator
-Generat URDF file from input robot description.
+Generat URDF file from input robot description. Small example about creating Robot object is given in ``main.cpp`` file.
 
 
 #Usage:
