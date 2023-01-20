@@ -18,7 +18,7 @@
 int main(int argc, const char * argv[]) {
     
     std::fstream file;
-    file.open("/Users/omkumardelvadia/Desktop/file.rtf",std::ios::app);
+    file.open("~/Desktop/file.rtf",std::ios::app);
     
     Link my_link;
     
